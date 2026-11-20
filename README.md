@@ -23,6 +23,30 @@
 
 ---
 
+### 🤖 AI I use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MiniMax-%23B4393C.svg?style=for-the-badge&logo=minimax&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white"/>
+</p>
+
+---
+
+### 💖 Support
+
+<p align="center">
+  <a href="https://www.donationalerts.com/r/ТВОЙ_НИК">
+    <img src="https://img.shields.io/badge/DonationAlerts-Поддержать-ff6b00?style=for-the-badge&logoColor=white&labelColor=0d001a"/>
+  </a>
+  <a href="https://www.donationalerts.com/r/ТВОЙ_НИК">
+    <img src="https://img.shields.io/badge/AI%20Subs-Подписки%20на%20нейросети-7c3aed?style=for-the-badge&logoColor=white&labelColor=0d001a"/>
+  </a>
+</p>
+
+---
+
 ### 🎮 My Projects
 
 <p align="center">
